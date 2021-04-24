@@ -1,0 +1,4 @@
+yarn lint --fix   -> fix errors 
+
+yarn lint -> to check for code error
+
